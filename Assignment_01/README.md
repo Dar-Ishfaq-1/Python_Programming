@@ -27,6 +27,5 @@
 
 | No. | Topic | Status | Repository Link |
 | --- | --- | --- | --- |
-| 03 | Calculator & Strings | ✅ | [View Repo](https://www.google.com/search?q=./Assignment_03/) |
+| 03 | Calculator & Strings | ✅ |
 
-**Would you like me to rewrite the READMEs for Assignments 1 and 2 with the name "Ishfaq_Dar" as well?**
